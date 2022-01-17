@@ -16,6 +16,6 @@
 
 ![](https://img.shields.io/badge/React-FrontEnd-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/React-FrontEnd-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ![](https://img.shields.io/badge/React-FrontEnd-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
