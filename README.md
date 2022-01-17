@@ -52,4 +52,4 @@
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/honeykhra
-[2]: https://www.linkedin.com/in/honeykhra/
+[2]: https://www.linkedin.com/in/honey-khra/
