@@ -11,3 +11,11 @@
 # Technologies I have worked with
 
 ![](https://img.shields.io/badge/React-FrontEnd-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/NodeJs-BackEnd-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/React-FrontEnd-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/React-FrontEnd-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/React-FrontEnd-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
