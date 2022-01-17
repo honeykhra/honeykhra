@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-_This is HoneyKhra a Full Stack Web Developer (MERN Stack) from Punjab,India.
+#_This is HoneyKhra a Full Stack Web Developer (MERN Stack) from Punjab,India.
 I help people take their business or idea getting online_
 
-Let's tell your business story
+##-- Let's tell your business story --
