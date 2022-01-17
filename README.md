@@ -7,3 +7,5 @@
 ### I help people take their business or idea getting online
 
 ## Let's tell your business story
+
+![](https://img.shields.io/badge/FrontEnd-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
