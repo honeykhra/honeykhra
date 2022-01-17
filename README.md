@@ -39,3 +39,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeykhra&theme=dracula" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=honeykhra&theme=dracula" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=honeykhra&repo=github-readme-stats)](https://github.com/honeykhra/github-readme-stats)
