@@ -8,4 +8,4 @@
 
 ## Let's tell your business story
 
-![](https://img.shields.io/badge/FrontEnd-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React-FrontEnd-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
