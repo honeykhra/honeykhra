@@ -45,9 +45,9 @@
 # You can find me on [![Twitter][1.2]][1], or [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
-
+<!-- 
 https://i.ibb.co/nb7MtBK/instagram.png
-https://i.ibb.co/5xPNh0z/linkedin.png
+https://i.ibb.co/5xPNh0z/linkedin.png -->
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
 [2.2]: https://i.ibb.co/5xPNh0z/linkedin.png "LinkedIn icon without padding"
 
