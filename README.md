@@ -1,8 +1,8 @@
 [![Header](https://i.ibb.co/fqc2MP3/Screenshot-2022-01-17-185758.png"Header")](https://khra.online/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=32&duration=3000&color=E26868&lines=Hey+there+%F0%9F%91%8B;Welcome+to+my+Github;My+name+is+Honey+Khra)](https://git.io/typing-svg)
+[!-- # [Typing SVG](https://readme-typing-svg.herokuapp.com/?size=32&duration=3000&color=905E96&lines=Hey+there+%F0%9F%91%8B;Welcome+to+my+Github;My+name+is+Honey+Khra)](https://git.io/typing-svg)
 
 ### This is HoneyKhra a Full Stack Web Developer (MERN Stack) from Punjab,India.
 
