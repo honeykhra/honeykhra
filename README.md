@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&duration=6000&color=E26868&lines=Hello+folks+%F0%9F%91%8B;Welcome+to+my+Github+Page;My+name+is+Honey+Khra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=32&duration=3000&color=594545&lines=Hey+there+%F0%9F%91%8B;Welcome+to+my+Github;My+name+is+Honey+Khra)](https://git.io/typing-svg)
 
 ### This is HoneyKhra a Full Stack Web Developer (MERN Stack) from Punjab,India.
 
