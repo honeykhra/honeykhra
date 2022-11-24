@@ -42,6 +42,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=honeykhra&theme=dracula" />
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=honeykhra&theme=dracula" />
+
 <!-- Actual text -->
 
 # You can find me on [![Twitter][1.2]][1], or [![LinkedIn][2.2]][2].
